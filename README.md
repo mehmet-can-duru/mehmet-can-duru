@@ -22,11 +22,16 @@ Welcome to my GitHub profile! I'm a relentless learner conducting research in th
 **Data Analysis:** Exploratory Data Analysis, Statistical Analysis, Predictive Modeling  
 **Machine Learning:** Supervised and Unsupervised Learning, Deep Learning, Natural Language Processing  
 
+---
 Feel free to reach out if you have any questions or would like to collaborate!
 
----
+📫 Contact
 
-📫 Contact: [Your Email Address](mailto:durumehmetcn@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mehmetcanduru/)
+<a href="mailto:durumehmetcn@gmail.com" target="_blank" style="display:inline-block;"><img src="https://img.icons8.com/color/48/000000/gmail.png" style="width:48px; height:48px;"/></a>
+<a href="https://www.linkedin.com/in/mehmetcanduru/" target="_blank" style="display:inline-block;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" style="width:48px; height:48px;"/></a>
+
+
+
 
 <!--
 **mehmet-can-duru/mehmet-can-duru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
