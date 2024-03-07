@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm a relentless learner conducting research in th
 ---
 
 #### Skill Set
-**Programming Languages:** Python, SQL, Go  
-**Libraries & Tools:** Pandas, Numpy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn  
+**Programming Languages:** Python, R, SQL, Go  
+**Libraries & Tools:** Pandas, Numpy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn, Django  
 **Data Analysis:** Exploratory Data Analysis, Statistical Analysis, Predictive Modeling  
 **Machine Learning:** Supervised and Unsupervised Learning, Deep Learning, Natural Language Processing  
 
